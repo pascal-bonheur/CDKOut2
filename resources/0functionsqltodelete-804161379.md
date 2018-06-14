@@ -3,7 +3,7 @@
  
 ### Resources
 
-
+salut # dewt
 | Name | Location | Type |
 | --- | --- | --- |
 | [functionapp2018052312211](functionapp2018052312211--652318646.md)  | centralus  | Microsoft.Storage/storageAccounts  |
