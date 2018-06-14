@@ -6,8 +6,8 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   | eastus  | Microsoft.Web/serverFarms  |
-|   | eastus  | Microsoft.Web/sites  |
+| [DefaultTier1ServerFarm](DefaultTier1ServerFarm--946911297.md)  | eastus  | Microsoft.Web/serverFarms  |
+| [SelectWines](SelectWines--201746524.md)  | eastus  | Microsoft.Web/sites  |
 
 ### Policies
 The following policies have been found at the resource group level: 

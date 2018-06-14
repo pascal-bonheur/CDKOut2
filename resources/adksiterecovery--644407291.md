@@ -6,13 +6,13 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   | eastus  | Microsoft.Compute/virtualMachines  |
-|   | eastus  | Microsoft.Compute/virtualMachines/extensions  |
-|   | eastus  | Microsoft.DevTestLab/schedules  |
-|   | eastus  | Microsoft.Network/networkInterfaces  |
-|   | eastus  | Microsoft.Network/networkSecurityGroups  |
-|   | eastus  | Microsoft.Network/publicIPAddresses  |
-|   | eastus  | Microsoft.Network/virtualNetworks  |
+| [tositerecover](tositerecover--876804365.md)  | eastus  | Microsoft.Compute/virtualMachines  |
+| [tositerecover/SiteRecovery-Windows](tositerecover/SiteRecovery-Windows--1836038354.md)  | eastus  | Microsoft.Compute/virtualMachines/extensions  |
+| [shutdown-computevm-tositerecover](shutdown-computevm-tositerecover--42098495.md)  | eastus  | Microsoft.DevTestLab/schedules  |
+| [tositerecover252](tositerecover252-9053796.md)  | eastus  | Microsoft.Network/networkInterfaces  |
+| [tositerecover-nsg](tositerecover-nsg-1613985498.md)  | eastus  | Microsoft.Network/networkSecurityGroups  |
+| [tositerecover-ip](tositerecover-ip--1744581162.md)  | eastus  | Microsoft.Network/publicIPAddresses  |
+| [adksiterecovery-vnet](adksiterecovery-vnet--1834270028.md)  | eastus  | Microsoft.Network/virtualNetworks  |
 
 ### Policies
 The following policies have been found at the resource group level: 

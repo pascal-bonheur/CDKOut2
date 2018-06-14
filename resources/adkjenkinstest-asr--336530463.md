@@ -6,8 +6,8 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   | eastus  | Microsoft.Storage/storageAccounts  |
-|   | northcentralus  | Microsoft.Storage/storageAccounts  |
+| [adkjenkinstestdcacheasr](adkjenkinstestdcacheasr--885733424.md)  | eastus  | Microsoft.Storage/storageAccounts  |
+| [adkjenkinstestdisks1asr](adkjenkinstestdisks1asr-1218776957.md)  | northcentralus  | Microsoft.Storage/storageAccounts  |
 
 ### Policies
 The following policies have been found at the resource group level: 

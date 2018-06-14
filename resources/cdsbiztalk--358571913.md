@@ -6,10 +6,10 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   | eastus  | Microsoft.ClassicCompute/domainNames  |
-|   | eastus  | Microsoft.ClassicStorage/storageAccounts  |
-|   | westus  | Microsoft.DataFactory/dataFactories  |
-|   | eastus  | Microsoft.Storage/storageAccounts  |
+| [cdsbiztalk](cdsbiztalk--333734667.md)  | eastus  | Microsoft.ClassicCompute/domainNames  |
+| [classicstoragepascal](classicstoragepascal--326556808.md)  | eastus  | Microsoft.ClassicStorage/storageAccounts  |
+| [PascalDataFactory](PascalDataFactory-1254535724.md)  | westus  | Microsoft.DataFactory/dataFactories  |
+| [storagearm](storagearm--1722233118.md)  | eastus  | Microsoft.Storage/storageAccounts  |
 
 ### Policies
 The following policies have been found at the resource group level: 

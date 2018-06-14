@@ -6,7 +6,7 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   | westus  | Microsoft.DataFactory/dataFactories  |
+| [pascalADFToDelete](pascalADFToDelete--61392490.md)  | westus  | Microsoft.DataFactory/dataFactories  |
 
 ### Policies
 The following policies have been found at the resource group level: 

@@ -6,8 +6,8 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   | eastus  | microsoft.insights/alertrules  |
-|   | eastus  | microsoft.insights/autoscalesettings  |
+| [ServerErrors-pascalumbraco](ServerErrors-pascalumbraco--2091453554.md)  | eastus  | microsoft.insights/alertrules  |
+| [Plan-UmbracoCMS-Group](Plan-UmbracoCMS-Group-842179346.md)  | eastus  | microsoft.insights/autoscalesettings  |
 
 ### Policies
 The following policies have been found at the resource group level: 

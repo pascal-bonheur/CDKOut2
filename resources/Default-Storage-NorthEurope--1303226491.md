@@ -6,8 +6,8 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   | northeurope  | Microsoft.ClassicStorage/storageAccounts  |
-|   | northeurope  | Microsoft.ClassicStorage/storageAccounts  |
+| [notredundant](notredundant--1887989416.md)  | northeurope  | Microsoft.ClassicStorage/storageAccounts  |
+| [sw12](sw12--1709014484.md)  | northeurope  | Microsoft.ClassicStorage/storageAccounts  |
 
 ### Policies
 The following policies have been found at the resource group level: 

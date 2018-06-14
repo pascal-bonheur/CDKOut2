@@ -6,7 +6,7 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   | westus  | Microsoft.ClassicStorage/storageAccounts  |
+| [portalvhdsx480qkj71p27l](portalvhdsx480qkj71p27l-184513856.md)  | westus  | Microsoft.ClassicStorage/storageAccounts  |
 
 ### Policies
 The following policies have been found at the resource group level: 

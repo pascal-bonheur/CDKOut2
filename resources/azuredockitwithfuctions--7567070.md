@@ -6,9 +6,9 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   | eastus  | Microsoft.Storage/storageAccounts  |
-|   | eastus  | Microsoft.Web/serverFarms  |
-|   | eastus  | Microsoft.Web/sites  |
+| [azuredockitwith8485](azuredockitwith8485--631483201.md)  | eastus  | Microsoft.Storage/storageAccounts  |
+| [EastUSPlan](EastUSPlan-611706889.md)  | eastus  | Microsoft.Web/serverFarms  |
+| [azuredockitwithfunctions](azuredockitwithfunctions--1433177210.md)  | eastus  | Microsoft.Web/sites  |
 
 ### Policies
 The following policies have been found at the resource group level: 

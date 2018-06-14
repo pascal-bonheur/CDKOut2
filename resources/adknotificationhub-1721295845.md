@@ -6,8 +6,8 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   | eastus2  | Microsoft.NotificationHubs/namespaces  |
-|   | eastus2  | Microsoft.NotificationHubs/namespaces/notificationHubs  |
+| [adknothub](adknothub--712449967.md)  | eastus2  | Microsoft.NotificationHubs/namespaces  |
+| [adknothub/adknotificationhub](adknothub/adknotificationhub-328530800.md)  | eastus2  | Microsoft.NotificationHubs/namespaces/notificationHubs  |
 
 ### Policies
 The following policies have been found at the resource group level: 

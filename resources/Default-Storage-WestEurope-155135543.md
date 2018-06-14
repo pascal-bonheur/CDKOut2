@@ -6,7 +6,7 @@
 
 | Name | Location | Type |
 | --- | --- | --- |
-|   | westeurope  | Microsoft.ClassicStorage/storageAccounts  |
+| [portalvhdsczzf11q6mlzhk](portalvhdsczzf11q6mlzhk--857972366.md)  | westeurope  | Microsoft.ClassicStorage/storageAccounts  |
 
 ### Policies
 The following policies have been found at the resource group level: 
