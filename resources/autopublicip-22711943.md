@@ -1,0 +1,16 @@
+# autopublicip 
+
+## Settings
+
+
+| Name | autopublicip  |
+| --- | --- |
+| Ip Address |   |
+| Public IP Allocation Method | Dynamic  |
+| Dns Settings / Domain Name Label |   |
+| Dns Settings / FQDN |   |
+| Dns Settings / Reverse FQDN |   |
+| Location | eastus2  |
+
+## Billing
+ Total cost : 
