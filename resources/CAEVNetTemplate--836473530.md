@@ -23,7 +23,7 @@
 | Network Security Group | [webNSG](webNSG--2145745860.md)  |
 | Route Table | [routetable](routetable--496314456.md)  |
 
- ## Subnet app
+## Subnet app
 
 ### Settings
 
