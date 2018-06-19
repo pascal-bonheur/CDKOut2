@@ -56,5 +56,5 @@ The Virtual Machine is using the following disks## OS Hard Disks
 ## Processor Time
  
 ## Available Bytes
-  ## Billing
+## Billing
  Total cost : 
