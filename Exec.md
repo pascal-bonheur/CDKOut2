@@ -1,6 +1,7 @@
 # Executive summary 
  This document was generated at the following date : 6/19/2018.This document was generated for the subscription(s) :
  The following Azure data centers are used in your deployment: 
+
 | Location | Number of resources |
 | --- | --- |
 | japaneast  | 7  |
