@@ -24,7 +24,7 @@
 | centralus  | 23  |
   
  The following components are used in your deployment:  
-    
+
  
 | Component | Number |
 | --- | --- |
