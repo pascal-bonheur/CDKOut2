@@ -15,5 +15,5 @@
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | default-allow-ssh  | Allow  | TCP  | Inbound  | *  | *  | *  | 22  |
 
- ## Billing
+## Billing
  Total cost : 
