@@ -18,7 +18,7 @@
 The following components are used in your deployment: 
 | Component | Number |
 | --- | --- |
- , your Azure consumption is split across the following categories: , your Azure consumption has the following trend: , the components that are the most expensive are the following: Â   
+ , your Azure consumption is split across the following categories:![Cloudockit](../assets/E29D195C1D7D465A8A55A3E5F9AE02A2.png) , your Azure consumption has the following trend:![Cloudockit](../assets/D6EE7F7492654A6387CB1948F3B3F9C6.png) , the components that are the most expensive are the following:![Cloudockit](../assets/ACA864707A804E10A992EBF14227FF31.png) Â   
 
 # Filters for document generation
 The following filters have been applied for the resource types:
