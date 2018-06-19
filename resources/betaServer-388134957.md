@@ -1,5 +1,5 @@
-# betaServer 
-![alt text](/../assets/8df8d35fbd214cc3ba6cd6f6f0c90562.jpg) 
+# betaServer
+![Cloudockit](../assets/5274dfb7da17419cbb856e44754cad5b.jpg) 
 ## Settings
 The virtual machine betaServer has the following settings:
 
@@ -22,7 +22,7 @@ The virtual machine betaServer has the following settings:
 
 ## Network interfaces
 
-## betaserver906 
+## betaserver906
 
 ### Settings
 
@@ -31,7 +31,7 @@ The virtual machine betaServer has the following settings:
 | --- | --- |
 | Is primary | True  |
 | Provisioning State | Succeeded  |
-| Network Security Group | [betaServer-nsg](betaServer-nsg-710328847.md)  |
+| Network Security Group |   |
 | Enable IP Forwarding | False  |
 | Location | eastus  |
 | Mac Address |   |
@@ -56,5 +56,5 @@ The Virtual Machine is using the following disks## OS Hard Disks
 ## Processor Time
  
 ## Available Bytes
-## Billing
+  ## Billing
  Total cost : 

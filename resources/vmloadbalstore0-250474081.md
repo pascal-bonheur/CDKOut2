@@ -1,5 +1,5 @@
-# vmloadbalstore0 
-![alt text](/../assets/f7a6147193e64a8e8e39c00bc720888f.jpg) 
+# vmloadbalstore0
+![Cloudockit](../assets/55ba284c85db44f4a416c85bb53a3b80.jpg) 
 ## Settings
 The virtual machine vmloadbalstore0 has the following settings:
 
@@ -28,7 +28,7 @@ The virtual machine vmloadbalstore0 has the following settings:
  
 ## Network interfaces
 
-## nic0 
+## nic0
 
 ### Settings
 
@@ -37,7 +37,7 @@ The virtual machine vmloadbalstore0 has the following settings:
 | --- | --- |
 | Is primary | True  |
 | Provisioning State | Succeeded  |
-| Network Security Group | [armVM](armVM--1144367662.md)  |
+| Network Security Group |   |
 | Enable IP Forwarding | False  |
 | Location | eastus  |
 | Mac Address |   |
@@ -53,7 +53,7 @@ The virtual machine vmloadbalstore0 has the following settings:
 
 ## Load Balancers
 
-## myLB 
+## myLB
 
 ### Settings
 

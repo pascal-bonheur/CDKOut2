@@ -1,5 +1,5 @@
-# Gemini-EUS-Prod-Vnet 
-![alt text](/../assets/8cde08b5b9d346af928498b96756556a.jpg) 
+# Gemini-EUS-Prod-Vnet
+![Cloudockit](../assets/917581b99f894db09ede34337cb81f48.jpg) 
 ## Settings
 
 
@@ -20,7 +20,7 @@
 
 | Adress Prefix | 10.156.17.0/26  |
 | --- | --- |
-| Network Security Group | [Gemini-EUS-Prod-NSG-Web](Gemini-EUS-Prod-NSG-Web-92261913.md)  |
+| Network Security Group |   |
 | Route Table | [Gemini-EUS-Prod-UDR](Gemini-EUS-Prod-UDR-1755423077.md)  |
 
  ## Subnet app
@@ -30,7 +30,7 @@
 
 | Adress Prefix | 10.156.17.64/26  |
 | --- | --- |
-| Network Security Group | [Gemini-EUS-Prod-NSG-App](Gemini-EUS-Prod-NSG-App-2060402018.md)  |
+| Network Security Group |   |
 | Route Table | [Gemini-EUS-Prod-UDR](Gemini-EUS-Prod-UDR-1755423077.md)  |
 
  ## Subnet data
@@ -40,7 +40,7 @@
 
 | Adress Prefix | 10.156.17.128/26  |
 | --- | --- |
-| Network Security Group | [Gemini-EUS-Prod-NSG-Data](Gemini-EUS-Prod-NSG-Data--477149069.md)  |
+| Network Security Group |   |
 | Route Table | [Gemini-EUS-Prod-UDR](Gemini-EUS-Prod-UDR-1755423077.md)  |
 
  

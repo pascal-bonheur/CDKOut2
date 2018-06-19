@@ -1,5 +1,5 @@
-# alphaServer 
-![alt text](/../assets/fcfa634924ee4aa1b03644e11fdd1dd2.jpg) 
+# alphaServer
+![Cloudockit](../assets/e66132bdecb2465b88471aba15a62833.jpg) 
 ## Settings
 The virtual machine alphaServer has the following settings:
 
@@ -22,7 +22,7 @@ The virtual machine alphaServer has the following settings:
 
 ## Network interfaces
 
-## alphaserver259 
+## alphaserver259
 
 ### Settings
 
@@ -31,7 +31,7 @@ The virtual machine alphaServer has the following settings:
 | --- | --- |
 | Is primary | True  |
 | Provisioning State | Succeeded  |
-| Network Security Group | [alphaServer-nsg](alphaServer-nsg-1629721120.md)  |
+| Network Security Group |   |
 | Enable IP Forwarding | False  |
 | Location | eastus  |
 | Mac Address |   |

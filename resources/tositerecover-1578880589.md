@@ -1,5 +1,5 @@
-# tositerecover 
-![alt text](/../assets/11d4ede7d4a84275ae7fb45c915c6d8c.jpg) 
+# tositerecover
+![Cloudockit](../assets/40631f5a8cdd43e8a5565f80396e48bf.jpg) 
 ## Settings
 The virtual machine tositerecover has the following settings:
 
@@ -22,7 +22,7 @@ The virtual machine tositerecover has the following settings:
 
 ## Network interfaces
 
-## tositerecover252 
+## tositerecover252
 
 ### Settings
 
@@ -31,7 +31,7 @@ The virtual machine tositerecover has the following settings:
 | --- | --- |
 | Is primary | True  |
 | Provisioning State | Succeeded  |
-| Network Security Group | [tositerecover-nsg](tositerecover-nsg-1613985498.md)  |
+| Network Security Group |   |
 | Enable IP Forwarding | False  |
 | Location | eastus  |
 | Mac Address |   |

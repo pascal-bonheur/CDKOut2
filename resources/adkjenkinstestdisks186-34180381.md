@@ -1,4 +1,4 @@
-# adkjenkinstestdisks186 
+# adkjenkinstestdisks186
 
 ## Settings
 The storage adkjenkinstestdisks186 has the following settings:

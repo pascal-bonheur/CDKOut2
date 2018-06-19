@@ -1,5 +1,5 @@
-# vmloadbalstore1 
-![alt text](/../assets/bf921032da1340e5a30c1fadbec91239.jpg) 
+# vmloadbalstore1
+![Cloudockit](../assets/9f48f4bd032e41e6a5f0e6a92f66c154.jpg) 
 ## Settings
 The virtual machine vmloadbalstore1 has the following settings:
 
@@ -28,7 +28,7 @@ The virtual machine vmloadbalstore1 has the following settings:
  
 ## Network interfaces
 
-## nic1 
+## nic1
 
 ### Settings
 
@@ -53,7 +53,7 @@ The virtual machine vmloadbalstore1 has the following settings:
 
 ## Load Balancers
 
-## myLB 
+## myLB
 
 ### Settings
 

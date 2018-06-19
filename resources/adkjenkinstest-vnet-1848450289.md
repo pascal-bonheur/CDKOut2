@@ -1,5 +1,5 @@
-# adkjenkinstest-vnet 
-![alt text](/../assets/2c8c128497d44dc7bea3f61b8764b3df.jpg) 
+# adkjenkinstest-vnet
+![Cloudockit](../assets/ab6f28216c7046bd833d4f8b1a609d1e.jpg) 
 ## Settings
 
 

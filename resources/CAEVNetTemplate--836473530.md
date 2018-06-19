@@ -1,5 +1,5 @@
-# CAEVNetTemplate 
-![alt text](/../assets/445c4c6e14d141e0b217ffca906ce63d.jpg) 
+# CAEVNetTemplate
+![Cloudockit](../assets/84ecacc3ed9c45c6b1bde7cd60553454.jpg) 
 ## Settings
 
 
@@ -20,27 +20,27 @@
 
 | Adress Prefix | 10.156.12.0/26  |
 | --- | --- |
-| Network Security Group | [webNSG](webNSG--2145745860.md)  |
+| Network Security Group |   |
 | Route Table | [routetable](routetable--496314456.md)  |
 
-## Subnet app
+ ## Subnet app
 
 ### Settings
 
 
 | Adress Prefix | 10.156.12.64/26  |
 | --- | --- |
-| Network Security Group | [appNSG](appNSG-351641189.md)  |
+| Network Security Group |   |
 | Route Table |   |
 
-## Subnet data
+ ## Subnet data
 
 ### Settings
 
 
 | Adress Prefix | 10.156.12.128/26  |
 | --- | --- |
-| Network Security Group | [dataNSG](dataNSG-1352080205.md)  |
+| Network Security Group |   |
 | Route Table | [routetable](routetable--496314456.md)  |
 
  

@@ -1,5 +1,5 @@
-# adkconcertoubuntu 
-![alt text](/../assets/f521a7f1ecb64cdfaa07acac85d258dc.jpg) 
+# adkconcertoubuntu
+![Cloudockit](../assets/41f0a9e29cb34a3992ce4b8fbfa13bee.jpg) 
 ## Settings
 The virtual machine adkconcertoubuntu has the following settings:
 
@@ -22,7 +22,7 @@ The virtual machine adkconcertoubuntu has the following settings:
 
 ## Network interfaces
 
-## adkconcertoubuntu46 
+## adkconcertoubuntu46
 
 ### Settings
 
@@ -31,7 +31,7 @@ The virtual machine adkconcertoubuntu has the following settings:
 | --- | --- |
 | Is primary | True  |
 | Provisioning State | Succeeded  |
-| Network Security Group | [adkconcertoubuntu-nsg](adkconcertoubuntu-nsg--1922706467.md)  |
+| Network Security Group |   |
 | Enable IP Forwarding | False  |
 | Location | centralus  |
 | Mac Address |   |
@@ -56,5 +56,5 @@ The Virtual Machine is using the following disks## OS Hard Disks
 ## Processor Time
  
 ## Available Bytes
-## Billing
+  ## Billing
  Total cost : 

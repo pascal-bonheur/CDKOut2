@@ -1,4 +1,4 @@
-# azurefunctions7f9eeced 
+# azurefunctions7f9eeced
 
 ## Settings
 The storage azurefunctions7f9eeced has the following settings:

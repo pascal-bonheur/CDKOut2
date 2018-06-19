@@ -1,4 +1,4 @@
-# adkjenkins-ip 
+# adkjenkins-ip
 
 ## Settings
 

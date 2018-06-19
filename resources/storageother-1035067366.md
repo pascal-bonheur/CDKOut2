@@ -1,4 +1,4 @@
-# storageother 
+# storageother
 
 ## Settings
 The storage storageother has the following settings:

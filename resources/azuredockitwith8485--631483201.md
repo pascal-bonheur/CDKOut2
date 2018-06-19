@@ -1,4 +1,4 @@
-# azuredockitwith8485 
+# azuredockitwith8485
 
 ## Settings
 The storage azuredockitwith8485 has the following settings:

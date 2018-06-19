@@ -1,4 +1,4 @@
-# sampletestfuncta6bf 
+# sampletestfuncta6bf
 
 ## Settings
 The storage sampletestfuncta6bf has the following settings:

@@ -1,4 +1,4 @@
-# betaServer-ip 
+# betaServer-ip
 
 ## Settings
 

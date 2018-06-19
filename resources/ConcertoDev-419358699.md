@@ -1,5 +1,5 @@
-# ConcertoDev 
-![alt text](/../assets/551f7a8e98094842b4f52e9ef85cbdd1.jpg) 
+# ConcertoDev
+![Cloudockit](../assets/13c511a3e46d4a44abd676b8bc0bd610.jpg) 
 ## Settings
 
 
@@ -38,7 +38,7 @@
 
 | Adress Prefix | 10.1.1.0/24  |
 | --- | --- |
-| Network Security Group | [sp2013](sp2013-228406827.md)  |
+| Network Security Group |   |
 | Route Table | [spRouteTable](spRouteTable--2085721850.md)  |
 
  ### IP Configurations

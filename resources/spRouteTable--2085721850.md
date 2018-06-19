@@ -1,4 +1,4 @@
-# spRouteTable 
+# spRouteTable
 
 ## Settings
 

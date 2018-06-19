@@ -1,5 +1,5 @@
-# adkmanagedvm 
-![alt text](/../assets/ae51f6636dbf4a28a6f69be846fe3527.jpg) 
+# adkmanagedvm
+![Cloudockit](../assets/f13e8b1649bb43a4bb2e451544b30cc5.jpg) 
 ## Settings
 The virtual machine adkmanagedvm has the following settings:
 
@@ -22,7 +22,7 @@ The virtual machine adkmanagedvm has the following settings:
 
 ## Network interfaces
 
-## adkmanagedvm750 
+## adkmanagedvm750
 
 ### Settings
 
@@ -31,7 +31,7 @@ The virtual machine adkmanagedvm has the following settings:
 | --- | --- |
 | Is primary | True  |
 | Provisioning State | Succeeded  |
-| Network Security Group | [adkmanagedvm-nsg](adkmanagedvm-nsg--584277933.md)  |
+| Network Security Group |   |
 | Enable IP Forwarding | False  |
 | Location | centralus  |
 | Mac Address |   |

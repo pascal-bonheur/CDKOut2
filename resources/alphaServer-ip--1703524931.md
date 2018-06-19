@@ -1,4 +1,4 @@
-# alphaServer-ip 
+# alphaServer-ip
 
 ## Settings
 

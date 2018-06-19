@@ -1,4 +1,4 @@
-# adkmanagedvm-ip 
+# adkmanagedvm-ip
 
 ## Settings
 

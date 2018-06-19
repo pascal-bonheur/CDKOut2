@@ -1,5 +1,5 @@
-# adkmanageddisk-vnet 
-![alt text](/../assets/f9a99716289d4d99ad99dd9ee0f33717.jpg) 
+# adkmanageddisk-vnet
+![Cloudockit](../assets/896248f6f44c4fc9b8be848dce233ad5.jpg) 
 ## Settings
 
 

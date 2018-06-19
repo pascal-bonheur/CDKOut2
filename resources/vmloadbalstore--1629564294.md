@@ -1,4 +1,4 @@
-# vmloadbalstore 
+# vmloadbalstore
 
 ## Settings
 The storage vmloadbalstore has the following settings:

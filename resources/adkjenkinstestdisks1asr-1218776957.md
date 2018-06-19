@@ -1,4 +1,4 @@
-# adkjenkinstestdisks1asr 
+# adkjenkinstestdisks1asr
 
 ## Settings
 The storage adkjenkinstestdisks1asr has the following settings:

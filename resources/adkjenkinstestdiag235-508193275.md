@@ -1,4 +1,4 @@
-# adkjenkinstestdiag235 
+# adkjenkinstestdiag235
 
 ## Settings
 The storage adkjenkinstestdiag235 has the following settings:

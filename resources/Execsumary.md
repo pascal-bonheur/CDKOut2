@@ -42,46 +42,46 @@ The following components are used in your deployment:
 | Cloud Services  | 0  |
 | Container Services  | 0  |
 | Content Delivery Network  | 0  |
-| Custom Role Definitions  | 0  |
-| Data Lake Stores  | 0  |
+| Custom Role Definitions  | 1  |
+| Data Lake Stores  | 2  |
 | Document DBs  | 0  |
-| Event Hubs  | 0  |
-| IoT Hubs  | 0  |
+| Event Hubs  | 1  |
+| IoT Hubs  | 1  |
 | Key Vaults  | 0  |
-| Logic Apps  | 0  |
+| Logic Apps  | 1  |
 | Management Locks  | 0  |
 | Media Service  | 0  |
 | Network Security Groups  | 0  |
-| Notification Hubs  | 0  |
+| Notification Hubs  | 1  |
 | Policy Assignments  | 0  |
-| Policy Definitions  | 0  |
-| Public IPs  | 0  |
+| Policy Definitions  | 54  |
+| Public IPs  | 15  |
 | Recovery Service Vault  | 0  |
 | Redis  | 0  |
 | Remote Apps  | 0  |
 | Resource Groups  | 84  |
-| Route Tables  | 0  |
-| Schedulers  | 0  |
+| Route Tables  | 4  |
+| Schedulers  | 1  |
 | SearchServices  | 0  |
 | Service Bus  | 0  |
 | Service Fabric Clusters  | 0  |
-| Storage Accounts  | 0  |
+| Storage Accounts  | 30  |
 | Storage Accounts (Classic)  | 0  |
-| Stream Analytics  | 0  |
-| Traffic Managers  | 0  |
-| Virtual Machines  | 0  |
+| Stream Analytics  | 2  |
+| Traffic Managers  | 1  |
+| Virtual Machines  | 12  |
 | Virtual Machines (Classic)  | 0  |
 | Virtual Machines Scale Sets  | 0  |
-| Virtual Network  | 0  |
+| Virtual Network  | 15  |
 | Virtual Network (Classic)  | 0  |
   
    
-For the period between 5/20/2018 and 6/19/2018, your Azure consumption is split across the following categories:  
-![Cloudockit](../assets/7C0E805D53F94179A896C1DB747531A7.png)   
-For the period between 5/20/2018 and 6/19/2018, your Azure consumption has the following trend:  
-![Cloudockit](../assets/5FAF692105824F05A308C63E01ED5F3C.png)   
-For the period between 5/20/2018 and 6/19/2018, the components that are the most expensive are the following:  
-![Cloudockit](../assets/0DFF32B9782E448C8735CDC92DA9FA7A.png)   
+-as billing information was excluded from the document generation, this section is be empty-, your Azure consumption is split across the following categories:  
+![Cloudockit](../assets/8D2D8B49E45D44EFB8F692A7402E3E01.png)   
+-as billing information was excluded from the document generation, this section is be empty-, your Azure consumption has the following trend:  
+![Cloudockit](../assets/3EB6ED34534C429FA61B999CD06983DD.png)   
+-as billing information was excluded from the document generation, this section is be empty-, the components that are the most expensive are the following:  
+![Cloudockit](../assets/E5FAC0B4CB8847CB8CC9A853ACAB638B.png)   
 Â   
   
 
@@ -99,41 +99,41 @@ The following filters have been applied for the resource types:
 | Azure Active Directories  | True  |
 | Azure SQL  | True  |
 | Batch  | True  |
-| Cloud Services  | True  |
-| Container Services  | True  |
+| Cloud Services  | False  |
+| Container Services  | False  |
 | Content Delivery Network  | True  |
-| Custom Role Definitions  | True  |
-| Data Lake Stores  | True  |
+| Custom Role Definitions  | False  |
+| Data Lake Stores  | False  |
 | Document DBs  | True  |
-| Event Hubs  | True  |
-| IoT Hubs  | True  |
+| Event Hubs  | False  |
+| IoT Hubs  | False  |
 | Key Vaults  | True  |
-| Logic Apps  | True  |
+| Logic Apps  | False  |
 | Management Locks  | True  |
-| Media Service  | True  |
+| Media Service  | False  |
 | Network Security Groups  | True  |
-| Notification Hubs  | True  |
-| Policy Assignments  | True  |
-| Policy Definitions  | True  |
-| Public IPs  | True  |
+| Notification Hubs  | False  |
+| Policy Assignments  | False  |
+| Policy Definitions  | False  |
+| Public IPs  | False  |
 | Recovery Service Vault  | True  |
-| Redis  | True  |
+| Redis  | False  |
 | Remote Apps  | True  |
 | Resource Groups  | False  |
-| Route Tables  | True  |
-| Schedulers  | True  |
+| Route Tables  | False  |
+| Schedulers  | False  |
 | SearchServices  | True  |
 | Service Bus  | True  |
-| Service Fabric Clusters  | True  |
-| Storage Accounts  | True  |
-| Storage Accounts (Classic)  | True  |
-| Stream Analytics  | True  |
-| Traffic Managers  | True  |
-| Virtual Machines  | True  |
-| Virtual Machines (Classic)  | True  |
-| Virtual Machines Scale Sets  | True  |
-| Virtual Network  | True  |
-| Virtual Network (Classic)  | True  |
+| Service Fabric Clusters  | False  |
+| Storage Accounts  | False  |
+| Storage Accounts (Classic)  | False  |
+| Stream Analytics  | False  |
+| Traffic Managers  | False  |
+| Virtual Machines  | False  |
+| Virtual Machines (Classic)  | False  |
+| Virtual Machines Scale Sets  | False  |
+| Virtual Network  | False  |
+| Virtual Network (Classic)  | False  |
   
 The following filters have been applied for resource groups to explicitly include:   
 The following filters have been applied for resource groups to explicitly exclude:   

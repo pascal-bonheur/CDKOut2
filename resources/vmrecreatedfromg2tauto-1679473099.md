@@ -1,5 +1,5 @@
-# vmrecreatedfromg2tauto 
-![alt text](/../assets/68beb7fdcc2e49eb809c0a483a43bf57.jpg) 
+# vmrecreatedfromg2tauto
+![Cloudockit](../assets/9e53dfdc7bd54e4f8469eacc0861e92e.jpg) 
 ## Settings
 The virtual machine vmrecreatedfromg2tauto has the following settings:
 
@@ -22,7 +22,7 @@ The virtual machine vmrecreatedfromg2tauto has the following settings:
 
 ## Network interfaces
 
-## myNic 
+## myNic
 
 ### Settings
 

@@ -1,5 +1,5 @@
-# adkg2tauto-vnet 
-![alt text](/../assets/cdc3ded4e16c411386d6a016e78f57c8.jpg) 
+# adkg2tauto-vnet
+![Cloudockit](../assets/775a6f4d29854683863a4b167764ac31.jpg) 
 ## Settings
 
 

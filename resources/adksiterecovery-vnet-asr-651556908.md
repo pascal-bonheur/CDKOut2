@@ -1,5 +1,5 @@
-# adksiterecovery-vnet-asr 
-![alt text](/../assets/4f12b4b0ae6c48a6b6d06c11dce1fb37.jpg) 
+# adksiterecovery-vnet-asr
+![Cloudockit](../assets/a79064d8da574f70aae4f5da5126f4fb.jpg) 
 ## Settings
 
 

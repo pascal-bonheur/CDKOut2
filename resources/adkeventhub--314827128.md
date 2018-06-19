@@ -1,4 +1,4 @@
-# adkeventhub 
+# adkeventhub
 
 ## Settings
 
