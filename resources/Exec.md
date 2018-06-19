@@ -1,6 +1,7 @@
 # Executive summary 
  This document was generated at the following date : 6/19/2018.This document was generated for the subscription(s) :
  The following Azure data centers are used in your deployment: 
+ 
 | Location | Number of resources |
 | --- | --- |
 | japaneast  | 7  |
@@ -15,7 +16,9 @@
 | southcentralus  | 6  |
 | eastus2  | 50  |
 | centralus  | 23  |
+
 The following components are used in your deployment: 
+
 | Component | Number |
 | --- | --- |
  , your Azure consumption is split across the following categories: , your Azure consumption has the following trend: , the components that are the most expensive are the following: Â   
