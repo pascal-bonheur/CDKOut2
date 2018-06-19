@@ -65,6 +65,6 @@ selectwtopic 
 | Updated At | 5/23/2018 7:26:01 PM  |
 | Filtering Messages Before Publishing | False  |
 
- ## Billing
+## Billing
  
  Total cost : 
