@@ -2,14 +2,14 @@
   
 The following section contains billing details for the period between 5/20/2018 and 6/19/2018.  
    
-![Cloudockit](../assets/3B739E4119AA4576AA172FC7A446EB7F.png)   
+![Cloudockit](../assets/1A1AFC04F7FE4920A941441383189540.png)   
    
-Â ![Cloudockit](../assets/D98F111E009E4E59892FF06660531FA5.png)  
-![Cloudockit](../assets/CD33E0FABDA941868EDDA6C7C55E2D35.png)   
-![Cloudockit](../assets/A11E1354C94A41B98F23F275B5CCD3C6.png)   
-![Cloudockit](../assets/E4BA7252031E457B963B06921E607D51.png)   
-![Cloudockit](../assets/64D881D69E114F2F977BC12BF9F4B020.png)   
-![Cloudockit](../assets/36F384B6EEAE4B9FA92AB6300A453A3E.png)   
+Â ![Cloudockit](../assets/8767003008B04130BDC4F8347DF8AC65.png)  
+![Cloudockit](../assets/7EFAE420355345A3A25C50F19F4557D1.png)   
+![Cloudockit](../assets/2ACFD06D6CFF4361ADB12A2E283A615C.png)   
+![Cloudockit](../assets/373D98CF00C84A2FA02332C87848FC09.png)   
+![Cloudockit](../assets/905C52E6BC004354885B4DABA22F79A6.png)   
+![Cloudockit](../assets/E35235CC38FB463EBC2BE69C7B96EEED.png)   
    
    
    

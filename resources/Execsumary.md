@@ -1,4 +1,4 @@
-# Executive summary 
+# Executive summary
   
    
 This document was generated at the following date : 6/19/2018.  
@@ -77,11 +77,11 @@ The following components are used in your deployment:
   
    
 For the period between 5/20/2018 and 6/19/2018, your Azure consumption is split across the following categories:  
-![Cloudockit](../assets/5DD0B1B040A546F9BE93A49F1E7B53A8.png)   
+![Cloudockit](../assets/7C0E805D53F94179A896C1DB747531A7.png)   
 For the period between 5/20/2018 and 6/19/2018, your Azure consumption has the following trend:  
-![Cloudockit](../assets/CADBB1CF5EED4A458A302BC2A41E9344.png)   
+![Cloudockit](../assets/5FAF692105824F05A308C63E01ED5F3C.png)   
 For the period between 5/20/2018 and 6/19/2018, the components that are the most expensive are the following:  
-![Cloudockit](../assets/615524FDB27145C3A5F10E032312F787.png)   
+![Cloudockit](../assets/0DFF32B9782E448C8735CDC92DA9FA7A.png)   
 Â   
   
 

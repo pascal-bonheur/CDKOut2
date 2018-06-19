@@ -1,2 +1,0 @@
-# Default-SQL-SoutheastAsia 
- 

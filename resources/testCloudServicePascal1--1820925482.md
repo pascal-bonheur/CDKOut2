@@ -1,2 +1,0 @@
-# testCloudServicePascal1 
- 
