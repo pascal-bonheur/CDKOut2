@@ -33,7 +33,7 @@
 | Network Security Group | [appNSG](appNSG-351641189.md)  |
 | Route Table |   |
 
- ## Subnet data
+## Subnet data
 
 ### Settings
 
