@@ -21,12 +21,15 @@ The following components are used in your deployment: 
 
 | Component | Number |
 | --- | --- |
- , your Azure consumption is split across the following categories: , your Azure consumption has the following trend: , the components that are the most expensive are the following: Â   
+
+your Azure consumption is split across the following categories: , your Azure consumption has the following trend: , the components that are the most expensive are the following: Â   
 
 # Filters for document generation
 The following filters have been applied for the resource types:
+
 | Component |  Explicitly excluded (Filters) |
 | --- | --- |
+
 The following filters have been applied for resource groups to explicitly include: The following filters have been applied for resource groups to explicitly exclude: Changes detectedThe following changes have been detected since the : 
 
 | Component | Added | Deleted | Changed | Unchanged |
