@@ -1,5 +1,5 @@
 # adkmanageddisk-vnet
-![Cloudockit](../assets/896248f6f44c4fc9b8be848dce233ad5.jpg) 
+![Cloudockit](../assets/34970f16dfcb4ae8a4a714462782538a.jpg) 
 ## Settings
 
 
@@ -9,6 +9,7 @@
 | Location | centralus  |
 | Provisioning State | Succeeded  |
 | State |   |
+
 
 
 ## Subnets
@@ -23,7 +24,8 @@
 | Network Security Group |   |
 | Route Table |   |
 
- ### IP Configurations
+ 
+### IP Configurations
 
 
 | Name | Public IP Address | Private IP Address | Private IP Allocation Method |
@@ -31,5 +33,12 @@
 | ipconfig1  |   | 10.4.2.4  | Dynamic  |
 | ipconfig1  |   | 10.4.2.5  | Dynamic  |
  
+
+
+
+
+
+
+
 ## Billing
  Total cost : 

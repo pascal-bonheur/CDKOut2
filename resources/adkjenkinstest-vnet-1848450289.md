@@ -1,5 +1,5 @@
 # adkjenkinstest-vnet
-![Cloudockit](../assets/ab6f28216c7046bd833d4f8b1a609d1e.jpg) 
+![Cloudockit](../assets/0030b0a66adb426596662b200f6552b8.jpg) 
 ## Settings
 
 
@@ -9,6 +9,7 @@
 | Location | eastus  |
 | Provisioning State | Succeeded  |
 | State |   |
+
 
 
 ## Subnets
@@ -23,12 +24,20 @@
 | Network Security Group |   |
 | Route Table |   |
 
- ### IP Configurations
+ 
+### IP Configurations
 
 
 | Name | Public IP Address | Private IP Address | Private IP Allocation Method |
 | --- | --- | --- | --- |
 | ipconfig1  |   | 10.4.0.4  | Dynamic  |
  
+
+
+
+
+
+
+
 ## Billing
  Total cost : 

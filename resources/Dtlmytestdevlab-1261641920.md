@@ -1,5 +1,5 @@
 # Dtlmytestdevlab
-![Cloudockit](../assets/05d12ed8032846dfb68e7a17450200bd.jpg) 
+![Cloudockit](../assets/f5bdc66453b0485d93dc462cb72ae316.jpg) 
 ## Settings
 
 
@@ -9,6 +9,7 @@
 | Location | canadaeast  |
 | Provisioning State | Succeeded  |
 | State |   |
+
 
 ## Tags
 
@@ -30,5 +31,13 @@
 | Route Table |   |
 
  
+
+
+
+
+
+
+
+
 ## Billing
  Total cost : 

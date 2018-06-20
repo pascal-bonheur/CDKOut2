@@ -1,5 +1,5 @@
 # adksiterecovery-vnet-asr
-![Cloudockit](../assets/a79064d8da574f70aae4f5da5126f4fb.jpg) 
+![Cloudockit](../assets/f5e4f93d54d141a39d7af70fbe58e9d9.jpg) 
 ## Settings
 
 
@@ -9,6 +9,7 @@
 | Location | northcentralus  |
 | Provisioning State | Succeeded  |
 | State |   |
+
 
 
 ## Subnets
@@ -24,5 +25,13 @@
 | Route Table |   |
 
  
+
+
+
+
+
+
+
+
 ## Billing
  Total cost : 

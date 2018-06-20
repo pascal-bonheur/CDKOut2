@@ -1,5 +1,5 @@
 # CAEVNetTemplate
-![Cloudockit](../assets/84ecacc3ed9c45c6b1bde7cd60553454.jpg) 
+![Cloudockit](../assets/3577a2dd40a146dd8e142068e3c6a8f0.jpg) 
 ## Settings
 
 
@@ -9,6 +9,7 @@
 | Location | canadaeast  |
 | Provisioning State | Succeeded  |
 | State |   |
+
 
 
 ## Subnets
@@ -23,7 +24,8 @@
 | Network Security Group |   |
 | Route Table | [routetable](routetable--496314456.md)  |
 
- ## Subnet app
+ 
+## Subnet app
 
 ### Settings
 
@@ -33,7 +35,8 @@
 | Network Security Group |   |
 | Route Table |   |
 
- ## Subnet data
+ 
+## Subnet data
 
 ### Settings
 
@@ -44,5 +47,13 @@
 | Route Table | [routetable](routetable--496314456.md)  |
 
  
+
+
+
+
+
+
+
+
 ## Billing
  Total cost : 

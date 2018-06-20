@@ -13,6 +13,7 @@
 | Monitor Status |   |
 | Monitor Protocol | HTTP  |
 
+
 ## EndPoints
 
 
@@ -20,5 +21,11 @@
 | --- | --- | --- | --- | --- | --- |
 | thebot  | adkbot.azurewebsites.net  | East US  | Enabled  | 1  | 1  |
 | thefunction  | azuredockitwithfunctions.azurewebsites.net  | East US  | Enabled  | 2  | 1  |
+
+
+
+
+
+
 ## Billing
  Total cost : 

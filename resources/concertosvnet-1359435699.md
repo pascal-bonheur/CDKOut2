@@ -1,5 +1,5 @@
 # concertosvnet
-![Cloudockit](../assets/24033b1639e745f48a98f888730f26bf.jpg) 
+![Cloudockit](../assets/d96602356f7549daa146c8aeb8c07b6a.jpg) 
 ## Settings
 
 
@@ -9,6 +9,7 @@
 | Location | eastus  |
 | Provisioning State | Succeeded  |
 | State |   |
+
 
 
 ## Subnets
@@ -24,5 +25,13 @@
 | Route Table |   |
 
  
+
+
+
+
+
+
+
+
 ## Billing
  Total cost : 

@@ -1,5 +1,5 @@
 # Gemini-EUS-Prod-Vnet
-![Cloudockit](../assets/917581b99f894db09ede34337cb81f48.jpg) 
+![Cloudockit](../assets/60184ef1491a408da545e95c3375a0f3.jpg) 
 ## Settings
 
 
@@ -9,6 +9,7 @@
 | Location | eastus  |
 | Provisioning State | Succeeded  |
 | State |   |
+
 
 
 ## Subnets
@@ -23,7 +24,8 @@
 | Network Security Group |   |
 | Route Table | [Gemini-EUS-Prod-UDR](Gemini-EUS-Prod-UDR-1755423077.md)  |
 
- ## Subnet app
+ 
+## Subnet app
 
 ### Settings
 
@@ -33,7 +35,8 @@
 | Network Security Group |   |
 | Route Table | [Gemini-EUS-Prod-UDR](Gemini-EUS-Prod-UDR-1755423077.md)  |
 
- ## Subnet data
+ 
+## Subnet data
 
 ### Settings
 
@@ -44,5 +47,13 @@
 | Route Table | [Gemini-EUS-Prod-UDR](Gemini-EUS-Prod-UDR-1755423077.md)  |
 
  
+
+
+
+
+
+
+
+
 ## Billing
  Total cost : 

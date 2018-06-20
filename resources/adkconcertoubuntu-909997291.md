@@ -1,5 +1,5 @@
 # adkconcertoubuntu
-![Cloudockit](../assets/41f0a9e29cb34a3992ce4b8fbfa13bee.jpg) 
+![Cloudockit](../assets/964919427bd847eda2a9b7779b92080a.jpg) 
 ## Settings
 The virtual machine adkconcertoubuntu has the following settings:
 
@@ -20,6 +20,7 @@ The virtual machine adkconcertoubuntu has the following settings:
 | Auto Update Status |   |
 
 
+
 ## Network interfaces
 
 ## adkconcertoubuntu46
@@ -37,6 +38,7 @@ The virtual machine adkconcertoubuntu has the following settings:
 | Mac Address |   |
 
 
+
 ### IP Configurations
 
 
@@ -44,17 +46,31 @@ The virtual machine adkconcertoubuntu has the following settings:
 | --- | --- | --- |
 |   | 10.4.2.5  | default  |
  
+
 ## Virtual Disks
-The Virtual Machine is using the following disks## OS Hard Disks
+The Virtual Machine is using the following disks
+
+## OS Hard Disks
 
 
 | Name | VHD Uri | Size (GB) | Is Managed Disk | Host Caching |
 | --- | --- | --- | --- | --- |
 | adkconcertoubuntu  | https://adkmanageddiskdisks421.blob.core.windows.net/vhds/adkconcertoubuntu20170707142303.vhd  |   | False  | ReadWrite  |
+
+
+
+
+
+
 ## Metrics
 
 ## Processor Time
  
 ## Available Bytes
+  
+
+
+
+
 ## Billing
  Total cost : 

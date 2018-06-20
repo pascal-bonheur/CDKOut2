@@ -1,5 +1,5 @@
 # ConcertoDev
-![Cloudockit](../assets/13c511a3e46d4a44abd676b8bc0bd610.jpg) 
+![Cloudockit](../assets/18dc4c7cf2904622bd7d4c915f4fb54e.jpg) 
 ## Settings
 
 
@@ -9,6 +9,7 @@
 | Location | eastus  |
 | Provisioning State | Succeeded  |
 | State |   |
+
 
 
 ## Subnets
@@ -23,7 +24,8 @@
 | Network Security Group |   |
 | Route Table |   |
 
- ### IP Configurations
+ 
+### IP Configurations
 
 
 | Name | Public IP Address | Private IP Address | Private IP Allocation Method |
@@ -41,7 +43,8 @@
 | Network Security Group |   |
 | Route Table | [spRouteTable](spRouteTable--2085721850.md)  |
 
- ### IP Configurations
+ 
+### IP Configurations
 
 
 | Name | Public IP Address | Private IP Address | Private IP Allocation Method |
@@ -52,6 +55,12 @@
 ## DNS Servers
 The following DNS Servers are defined in the Virtual Network:
 - 12.12.12.12
+
+
+
+
+
+
 
 ## Billing
  Total cost : 

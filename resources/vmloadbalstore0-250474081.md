@@ -1,5 +1,5 @@
 # vmloadbalstore0
-![Cloudockit](../assets/55ba284c85db44f4a416c85bb53a3b80.jpg) 
+![Cloudockit](../assets/8b4bd38e46ee47a3af0011b8941bc685.jpg) 
 ## Settings
 The virtual machine vmloadbalstore0 has the following settings:
 
@@ -18,6 +18,7 @@ The virtual machine vmloadbalstore0 has the following settings:
 | Last Patch Date |   |
 | Resource Group | [vmloadbalacanced](vmloadbalacanced--926519262.md)  |
 | Auto Update Status |   |
+
 
 ## Tags
 
@@ -43,6 +44,7 @@ The virtual machine vmloadbalstore0 has the following settings:
 | Mac Address |   |
 
 
+
 ### IP Configurations
 
 
@@ -50,7 +52,6 @@ The virtual machine vmloadbalstore0 has the following settings:
 | --- | --- | --- |
 |   | 10.0.0.5  | Subnet-1  |
  
-
 ## Load Balancers
 
 ## myLB
@@ -63,6 +64,7 @@ The virtual machine vmloadbalstore0 has the following settings:
 | Location | eastus  |
 | Provisioning State | Succeeded  |
 
+
 ### Inbound NAT Rules
 
 
@@ -70,6 +72,8 @@ The virtual machine vmloadbalstore0 has the following settings:
 | --- | --- | --- | --- | --- |
 | RDP-VM0  | Tcp  | 3389  | 50001  | False  |
 | RDP-VM1  | Tcp  | 3389  | 50002  | False  |
+
+
 
 ## Virtual Disks
 The Virtual Machine is using the following disks
@@ -80,16 +84,28 @@ The Virtual Machine is using the following disks
 | --- | --- | --- | --- | --- |
 | otherdisk  | https://storagearm.blob.core.windows.net/blb1/otherdisk.vhd  | 1023  | False  | None  |
 | disk2  | https://storagearm.blob.core.windows.net/blb1/disk2.vhd  | 1023  | False  | None  |
+
 ## OS Hard Disks
 
 
 | Name | VHD Uri | Size (GB) | Is Managed Disk | Host Caching |
 | --- | --- | --- | --- | --- |
 | osdisk  | http://vmloadbalstore.blob.core.windows.net/vhds/osdisk0.vhd  |   | False  | ReadWrite  |
+
+
+
+
+
+
 ## Metrics
 
 ## Processor Time
  
 ## Available Bytes
-  ## Billing
+  
+
+
+
+
+## Billing
  Total cost : 

@@ -1,5 +1,5 @@
 # IntranetVNET
-![Cloudockit](../assets/1972761aad024ccb9dc70b729aa51be6.jpg) 
+![Cloudockit](../assets/dc31514ec3a84da9b94d1e4a6c6ee40b.jpg) 
 ## Settings
 
 
@@ -9,6 +9,7 @@
 | Location | eastus  |
 | Provisioning State | Succeeded  |
 | State |   |
+
 
 ## Tags
 
@@ -29,7 +30,8 @@
 | Network Security Group |   |
 | Route Table |   |
 
- ## Subnet Subnet1
+ 
+## Subnet Subnet1
 
 ### Settings
 
@@ -41,11 +43,18 @@
 
  
 
+
 ## DNS Servers
 The following DNS Servers are defined in the Virtual Network:
 - 10.10.2.3
 
 - 10.10.2.4
+
+
+
+
+
+
 
 ## Billing
  Total cost : 

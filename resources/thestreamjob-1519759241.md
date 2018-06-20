@@ -1,5 +1,5 @@
 # thestreamjob
-![Cloudockit](../assets/a15678734594414db7791db3174f2fb5.jpg) 
+![Cloudockit](../assets/25f542c57a914bac924ba6c362fdecff.jpg) 
 ## Settings
 
 

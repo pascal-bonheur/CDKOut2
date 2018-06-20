@@ -1,5 +1,5 @@
 # tositerecover
-![Cloudockit](../assets/40631f5a8cdd43e8a5565f80396e48bf.jpg) 
+![Cloudockit](../assets/4b18664d1ff74d349229e940adfe985d.jpg) 
 ## Settings
 The virtual machine tositerecover has the following settings:
 
@@ -20,6 +20,7 @@ The virtual machine tositerecover has the following settings:
 | Auto Update Status |   |
 
 
+
 ## Network interfaces
 
 ## tositerecover252
@@ -37,6 +38,7 @@ The virtual machine tositerecover has the following settings:
 | Mac Address |   |
 
 
+
 ### IP Configurations
 
 
@@ -44,17 +46,31 @@ The virtual machine tositerecover has the following settings:
 | --- | --- | --- |
 |   | 10.4.3.4  | default  |
  
+
 ## Virtual Disks
-The Virtual Machine is using the following disks## OS Hard Disks
+The Virtual Machine is using the following disks
+
+## OS Hard Disks
 
 
 | Name | VHD Uri | Size (GB) | Is Managed Disk | Host Caching |
 | --- | --- | --- | --- | --- |
 | tositerecover  | https://adkjenkinstestdisks186.blob.core.windows.net/vhds/tositerecover20170706134931.vhd  |   | False  | ReadWrite  |
+
+
+
+
+
+
 ## Metrics
 
 ## Processor Time
  
 ## Available Bytes
-  ## Billing
+  
+
+
+
+
+## Billing
  Total cost : 

@@ -1,5 +1,5 @@
 # alphaServer
-![Cloudockit](../assets/e66132bdecb2465b88471aba15a62833.jpg) 
+![Cloudockit](../assets/8d1948aba05444eea2059e648e69fc8f.jpg) 
 ## Settings
 The virtual machine alphaServer has the following settings:
 
@@ -20,6 +20,7 @@ The virtual machine alphaServer has the following settings:
 | Auto Update Status |   |
 
 
+
 ## Network interfaces
 
 ## alphaserver259
@@ -37,6 +38,7 @@ The virtual machine alphaServer has the following settings:
 | Mac Address |   |
 
 
+
 ### IP Configurations
 
 
@@ -44,17 +46,31 @@ The virtual machine alphaServer has the following settings:
 | --- | --- | --- |
 |   | 10.1.0.5  | default  |
  
+
 ## Virtual Disks
-The Virtual Machine is using the following disks## OS Hard Disks
+The Virtual Machine is using the following disks
+
+## OS Hard Disks
 
 
 | Name | VHD Uri | Size (GB) | Is Managed Disk | Host Caching |
 | --- | --- | --- | --- | --- |
 | alphaServer  | https://storagearm.blob.core.windows.net/vhds/alphaServer2016829161712.vhd  |   | False  | ReadWrite  |
+
+
+
+
+
+
 ## Metrics
 
 ## Processor Time
  
 ## Available Bytes
-  ## Billing
+  
+
+
+
+
+## Billing
  Total cost : 

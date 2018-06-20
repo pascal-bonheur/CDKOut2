@@ -12,5 +12,11 @@
 | Dns Settings / Reverse FQDN |   |
 | Location | eastus  |
 
+
+
+
+
+
+
 ## Billing
  Total cost : 

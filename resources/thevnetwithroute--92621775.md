@@ -1,5 +1,5 @@
 # thevnetwithroute
-![Cloudockit](../assets/832d5e2e56dd4c5891968188cbe78815.jpg) 
+![Cloudockit](../assets/e7155d49a51947a787b00162c6c2a891.jpg) 
 ## Settings
 
 
@@ -9,6 +9,7 @@
 | Location | eastus2  |
 | Provisioning State | Succeeded  |
 | State |   |
+
 
 
 ## Subnets
@@ -24,5 +25,13 @@
 | Route Table | [reroutetonva](reroutetonva--747290517.md)  |
 
  
+
+
+
+
+
+
+
+
 ## Billing
  Total cost : 

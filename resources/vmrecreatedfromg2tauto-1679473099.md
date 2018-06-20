@@ -1,5 +1,5 @@
 # vmrecreatedfromg2tauto
-![Cloudockit](../assets/9e53dfdc7bd54e4f8469eacc0861e92e.jpg) 
+![Cloudockit](../assets/af970d7744ed4fe687f66337d37b9ab2.jpg) 
 ## Settings
 The virtual machine vmrecreatedfromg2tauto has the following settings:
 
@@ -20,6 +20,7 @@ The virtual machine vmrecreatedfromg2tauto has the following settings:
 | Auto Update Status |   |
 
 
+
 ## Network interfaces
 
 ## myNic
@@ -37,6 +38,7 @@ The virtual machine vmrecreatedfromg2tauto has the following settings:
 | Mac Address |   |
 
 
+
 ### IP Configurations
 
 
@@ -44,17 +46,31 @@ The virtual machine vmrecreatedfromg2tauto has the following settings:
 | --- | --- | --- |
 |   | 10.4.1.5  | default  |
  
+
 ## Virtual Disks
-The Virtual Machine is using the following disks## OS Hard Disks
+The Virtual Machine is using the following disks
+
+## OS Hard Disks
 
 
 | Name | VHD Uri | Size (GB) | Is Managed Disk | Host Caching |
 | --- | --- | --- | --- | --- |
 | myOsDisk  | https://adkg2tautodisks437.blob.core.windows.net/vhds/vmrecreatedfromg2tauto-myOsDisk.vhd  |   | False  | ReadWrite  |
+
+
+
+
+
+
 ## Metrics
 
 ## Processor Time
  
 ## Available Bytes
-  ## Billing
+  
+
+
+
+
+## Billing
  Total cost : 

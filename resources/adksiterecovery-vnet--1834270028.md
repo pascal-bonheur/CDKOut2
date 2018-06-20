@@ -1,5 +1,5 @@
 # adksiterecovery-vnet
-![Cloudockit](../assets/b1f683f08f184a5eaec6a2849eac94ff.jpg) 
+![Cloudockit](../assets/2d3e20e763874a0581ddbd0ec222cc63.jpg) 
 ## Settings
 
 
@@ -9,6 +9,7 @@
 | Location | eastus  |
 | Provisioning State | Succeeded  |
 | State |   |
+
 
 
 ## Subnets
@@ -23,12 +24,20 @@
 | Network Security Group |   |
 | Route Table |   |
 
- ### IP Configurations
+ 
+### IP Configurations
 
 
 | Name | Public IP Address | Private IP Address | Private IP Allocation Method |
 | --- | --- | --- | --- |
 | ipconfig1  |   | 10.4.3.4  | Dynamic  |
  
+
+
+
+
+
+
+
 ## Billing
  Total cost : 

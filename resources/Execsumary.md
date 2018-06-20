@@ -77,11 +77,11 @@ The following components are used in your deployment:
   
    
 -as billing information was excluded from the document generation, this section is be empty-, your Azure consumption is split across the following categories:  
-![Cloudockit](../assets/8D2D8B49E45D44EFB8F692A7402E3E01.png)   
+![Cloudockit](../assets/3E6799A27B0E4CC2900375B9A2D87FA3.png)   
 -as billing information was excluded from the document generation, this section is be empty-, your Azure consumption has the following trend:  
-![Cloudockit](../assets/3EB6ED34534C429FA61B999CD06983DD.png)   
+![Cloudockit](../assets/B3357B1F29BA4D0A8C527E877D1CEDCA.png)   
 -as billing information was excluded from the document generation, this section is be empty-, the components that are the most expensive are the following:  
-![Cloudockit](../assets/E5FAC0B4CB8847CB8CC9A853ACAB638B.png)   
+![Cloudockit](../assets/C0E5CCE3615C493B98D1FD14A23B05E7.png)   
 Â   
   
 

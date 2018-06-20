@@ -273,11 +273,14 @@ The following custom roles have been found:
 | --- | --- |
 | Role Description | Cannot play with public IP  |
 
+
 ## Assignable Scopes
 
 - /subscriptions/275ddf79-b240-44e7-9916-f24175b451b1/resourceGroups/adkg2tauto
 
+
 ## Permissions
+
 ### Actions
 
 - Microsoft.Network/*
@@ -287,8 +290,7 @@ The following custom roles have been found:
 
 - /*
 
-  
-  
+    
 Policies  
 The following policies have been found at the subscription level:  
    

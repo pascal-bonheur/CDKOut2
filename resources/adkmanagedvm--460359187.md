@@ -1,5 +1,5 @@
 # adkmanagedvm
-![Cloudockit](../assets/f13e8b1649bb43a4bb2e451544b30cc5.jpg) 
+![Cloudockit](../assets/c80c442d09b34f4cbdabdba56089c246.jpg) 
 ## Settings
 The virtual machine adkmanagedvm has the following settings:
 
@@ -20,6 +20,7 @@ The virtual machine adkmanagedvm has the following settings:
 | Auto Update Status |   |
 
 
+
 ## Network interfaces
 
 ## adkmanagedvm750
@@ -37,6 +38,7 @@ The virtual machine adkmanagedvm has the following settings:
 | Mac Address |   |
 
 
+
 ### IP Configurations
 
 
@@ -44,17 +46,31 @@ The virtual machine adkmanagedvm has the following settings:
 | --- | --- | --- |
 |   | 10.4.2.4  | default  |
  
+
 ## Virtual Disks
-The Virtual Machine is using the following disks## OS Hard Disks
+The Virtual Machine is using the following disks
+
+## OS Hard Disks
 
 
 | Name | VHD Uri | Size (GB) | Is Managed Disk | Host Caching |
 | --- | --- | --- | --- | --- |
 | adkmanagedvm_OsDisk_1_a9b1e8dc20b846c998ea1694f8a98436  |   |   | True  | ReadWrite  |
+
+
+
+
+
+
 ## Metrics
 
 ## Processor Time
  
 ## Available Bytes
-  ## Billing
+  
+
+
+
+
+## Billing
  Total cost : 

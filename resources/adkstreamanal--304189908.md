@@ -1,5 +1,5 @@
 # adkstreamanal
-![Cloudockit](../assets/f21784ae837a4a878809e5d933fa8cef.jpg) 
+![Cloudockit](../assets/6bce5b95b1044d08aa1605cb09d4b6e7.jpg) 
 ## Settings
 
 

@@ -1,5 +1,5 @@
 # vmloadbalstore1
-![Cloudockit](../assets/9f48f4bd032e41e6a5f0e6a92f66c154.jpg) 
+![Cloudockit](../assets/07150e3ce1f9442ebbdd3f3bfa316d06.jpg) 
 ## Settings
 The virtual machine vmloadbalstore1 has the following settings:
 
@@ -18,6 +18,7 @@ The virtual machine vmloadbalstore1 has the following settings:
 | Last Patch Date |   |
 | Resource Group | [vmloadbalacanced](vmloadbalacanced--926519262.md)  |
 | Auto Update Status |   |
+
 
 ## Tags
 
@@ -43,6 +44,7 @@ The virtual machine vmloadbalstore1 has the following settings:
 | Mac Address |   |
 
 
+
 ### IP Configurations
 
 
@@ -50,7 +52,6 @@ The virtual machine vmloadbalstore1 has the following settings:
 | --- | --- | --- |
 |   | 10.0.0.4  | Subnet-1  |
  
-
 ## Load Balancers
 
 ## myLB
@@ -63,6 +64,7 @@ The virtual machine vmloadbalstore1 has the following settings:
 | Location | eastus  |
 | Provisioning State | Succeeded  |
 
+
 ### Inbound NAT Rules
 
 
@@ -71,17 +73,32 @@ The virtual machine vmloadbalstore1 has the following settings:
 | RDP-VM0  | Tcp  | 3389  | 50001  | False  |
 | RDP-VM1  | Tcp  | 3389  | 50002  | False  |
 
+
+
 ## Virtual Disks
-The Virtual Machine is using the following disks## OS Hard Disks
+The Virtual Machine is using the following disks
+
+## OS Hard Disks
 
 
 | Name | VHD Uri | Size (GB) | Is Managed Disk | Host Caching |
 | --- | --- | --- | --- | --- |
 | osdisk  | http://vmloadbalstore.blob.core.windows.net/vhds/osdisk1.vhd  |   | False  | ReadWrite  |
+
+
+
+
+
+
 ## Metrics
 
 ## Processor Time
  
 ## Available Bytes
-  ## Billing
+  
+
+
+
+
+## Billing
  Total cost : 

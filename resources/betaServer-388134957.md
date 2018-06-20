@@ -1,5 +1,5 @@
 # betaServer
-![Cloudockit](../assets/5274dfb7da17419cbb856e44754cad5b.jpg) 
+![Cloudockit](../assets/33b4bb8338544002b66d26086d07f804.jpg) 
 ## Settings
 The virtual machine betaServer has the following settings:
 
@@ -20,6 +20,7 @@ The virtual machine betaServer has the following settings:
 | Auto Update Status |   |
 
 
+
 ## Network interfaces
 
 ## betaserver906
@@ -37,6 +38,7 @@ The virtual machine betaServer has the following settings:
 | Mac Address |   |
 
 
+
 ### IP Configurations
 
 
@@ -44,17 +46,31 @@ The virtual machine betaServer has the following settings:
 | --- | --- | --- |
 |   | 10.1.0.6  | default  |
  
+
 ## Virtual Disks
-The Virtual Machine is using the following disks## OS Hard Disks
+The Virtual Machine is using the following disks
+
+## OS Hard Disks
 
 
 | Name | VHD Uri | Size (GB) | Is Managed Disk | Host Caching |
 | --- | --- | --- | --- | --- |
 | betaServer  | https://storagearm.blob.core.windows.net/vhds/betaServer2016829163843.vhd  |   | False  | ReadWrite  |
+
+
+
+
+
+
 ## Metrics
 
 ## Processor Time
  
 ## Available Bytes
-  ## Billing
+  
+
+
+
+
+## Billing
  Total cost : 
